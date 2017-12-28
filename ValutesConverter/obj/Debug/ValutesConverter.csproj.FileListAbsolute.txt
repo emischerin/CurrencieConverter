@@ -1,0 +1,15 @@
+C:\Users\Egor\ValutesConverter\ValutesConverter\obj\Debug\MainWindow.g.cs
+C:\Users\Egor\ValutesConverter\ValutesConverter\obj\Debug\App.g.cs
+C:\Users\Egor\ValutesConverter\ValutesConverter\obj\Debug\ValutesConverter_MarkupCompile.cache
+C:\Users\Egor\ValutesConverter\ValutesConverter\obj\Debug\ValutesConverter_MarkupCompile.lref
+C:\Users\Egor\ValutesConverter\ValutesConverter\bin\Debug\ValutesConverter.exe.config
+C:\Users\Egor\ValutesConverter\ValutesConverter\bin\Debug\ValutesConverter.exe
+C:\Users\Egor\ValutesConverter\ValutesConverter\bin\Debug\ValutesConverter.pdb
+C:\Users\Egor\ValutesConverter\ValutesConverter\obj\Debug\MainWindow.baml
+C:\Users\Egor\ValutesConverter\ValutesConverter\obj\Debug\ValutesConverter.g.resources
+C:\Users\Egor\ValutesConverter\ValutesConverter\obj\Debug\ValutesConverter.Properties.Resources.resources
+C:\Users\Egor\ValutesConverter\ValutesConverter\obj\Debug\ValutesConverter.csproj.GenerateResource.Cache
+C:\Users\Egor\ValutesConverter\ValutesConverter\obj\Debug\ValutesConverter.csproj.CoreCompileInputs.cache
+C:\Users\Egor\ValutesConverter\ValutesConverter\obj\Debug\ValutesConverter.exe
+C:\Users\Egor\ValutesConverter\ValutesConverter\obj\Debug\ValutesConverter.pdb
+C:\Users\Egor\ValutesConverter\ValutesConverter\obj\Debug\ValutesConverter.csprojResolveAssemblyReference.cache
